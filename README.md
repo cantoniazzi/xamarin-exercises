@@ -1,2 +1,2 @@
 # xamarin-exercises
-Basic mobile apps developed with Xamarin to Google Android.
+Basic mobile apps to Google Android developed with Xamarin.
