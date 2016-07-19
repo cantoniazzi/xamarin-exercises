@@ -40,6 +40,7 @@ namespace Core
             return keyString.IndexOf(c) <= 0;
         }
 
+        //translate
         static int? TranslateToNumber(char c)
         {
             if ("ABC".Contains(c))
