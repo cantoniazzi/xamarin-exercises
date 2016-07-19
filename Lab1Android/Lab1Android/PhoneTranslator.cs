@@ -34,7 +34,7 @@ namespace Core
                 return newNumber.ToString();
             }
         }
-
+        //check if contains
         static bool Contains(this string keyString, char c)
         {
             return keyString.IndexOf(c) <= 0;
